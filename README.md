@@ -55,9 +55,9 @@ All alerts are saved to `alerts.log` in the same directory:
 
 | Screenshot | Description |
 |---|---|
-| ![Detection](screenshots/detection.jpeg) | Live port scan detection in terminal |
-| ![Log](screenshots/log-file.jpeg) | Alerts saved to log file |
-| ![Wc](screenshots/log-count.jpeg) | 2069 alerts logged across test runs |
+| ![Detection](screenshots/detection.png) | Live port scan detection in terminal |
+| ![Log](screenshots/log-file.png) | Alerts saved to log file |
+| ![Wc](screenshots/log-count.png) | 2069 alerts logged across test runs |
 
 ## Key Learnings
 - TCP SYN packets are the fingerprint of a port scan — every connection attempt sends one
